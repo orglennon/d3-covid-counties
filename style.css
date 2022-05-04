@@ -1,0 +1,19 @@
+* {
+	font-family: 'Apercu Pro', sans-serif;
+}
+
+/* Style for Custom Tooltip */
+#tooltip {   
+ 	position: absolute;           
+	text-align: center;              
+	padding: 6px 8px;             
+	font-size: 12px;        
+	background: white;   
+	border: 0px;      
+	border-radius: 8px;           
+	pointer-events: none;         
+}
+
+.county:hover {
+	stroke: #ffffff;
+}
